@@ -45,4 +45,4 @@ Now,we can perform this
         }
 ```
 After swift 4.0,we can use Codable Protocol to convert jsonData to our custom model, it's amazing!
-So,we use generic adn protocol extension to decouple the request path, parameters, parse and completionHandler.It's good.
+So,we use generic and protocol extension to decouple the request path, parameters, parse and completionHandler.It's good.
